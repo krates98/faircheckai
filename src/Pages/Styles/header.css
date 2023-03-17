@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+body {
+  background-color: #fff;
+  font-family: "Lato", sans-serif;
+}
+
+.navbar .nav-item .nav-link {
+  font-size: 20px;
+  background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.navbar-brand {
+  font-size: 30px;
+  background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.navbar-nav.ml-auto {
+  margin-left: auto;
+}

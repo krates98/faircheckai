@@ -1,0 +1,57 @@
+.roadmap {
+  background-color: black;
+  height: 100%;
+  padding: 12%;
+}
+
+.fas {
+  color: white;
+}
+
+.textHead {
+  margin-top: 40px;
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
+  color: transparent;
+  background-clip: text;
+}
+
+.timeline-title {
+  font-size: 20px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.timeline-body {
+  font-size: 15px;
+  font-weight: 300;
+  background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.timeline-badge {
+  background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.timeline {
+  list-style: none;
+}
+
+.textRoad {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
+  color: transparent;
+  background-clip: text;
+}
