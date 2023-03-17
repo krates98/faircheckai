@@ -4,11 +4,11 @@ import "./Styles/utility.css";
 const Utility = () => {
   return (
     <div className="utility">
-      <div class="container centerScreen">
-        <div class="row">
-          <div class="col-sm-12 about">
-            <h1 class="textHeader">Problem We Are Solving?</h1>
-            <p class="textUtil">
+      <div className="container centerScreen">
+        <div className="row">
+          <div className="col-sm-12 about">
+            <h1 className="textHeader">Problem We Are Solving?</h1>
+            <p className="textUtil">
               A FairCheckAi is using AI as a tool designed to detect and
               mitigate potential biases and disparities in the distribution and
               allocation of tokens in a cryptocurrency ecosystem. The detector

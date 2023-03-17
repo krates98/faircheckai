@@ -16,7 +16,7 @@
 .textHeader {
   font-size: 70px;
   font-weight: 600;
-  background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
+  background-image: linear-gradient(to left, #00c9ff, #92fe9d);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -26,7 +26,7 @@
 
 .text {
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 500;
   background-image: linear-gradient(to left, #bddeba, rgb(180, 210, 178));
   color: transparent;
   background-clip: text;

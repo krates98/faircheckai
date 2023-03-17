@@ -4,6 +4,9 @@ import Top from "./Pages/Top";
 import Utility from "./Pages/Utility";
 import Custom from "./Pages/Custom";
 import Roadmap from "./Pages/Roadmap";
+import Tokenomics from "./Pages/Tokenomics";
+import PublicSale from "./Pages/PublicSale";
+import Footer from "./Pages/Footer";
 
 const App = () => {
   return (
@@ -13,7 +16,9 @@ const App = () => {
       <Utility />
       <Custom />
       <Roadmap />
-      {/* <Header /> */}
+      <Tokenomics />
+      <PublicSale />
+      <Footer />
     </>
   );
 };

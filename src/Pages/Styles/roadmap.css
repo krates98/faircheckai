@@ -4,8 +4,23 @@
   padding: 12%;
 }
 
-.fas {
-  color: white;
+.animate {
+  transition: transform 0.3s ease-in-out;
+}
+
+.animate:hover {
+  transform: scale(1.05);
+}
+
+.topCard {
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  color: grey;
+}
+
+.card-body ul {
+  list-style: outside;
 }
 
 .textHead {
